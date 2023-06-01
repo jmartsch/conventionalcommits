@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/baumrock/conventionalcommits/compare/v1.0.0...v2.0.0) (2023-06-01)
+
+
+* Another breaking change ([3aee880](https://github.com/baumrock/conventionalcommits/commit/3aee88069ef49014c7b39a4582b7772e9e75cd0f))
+
+
+### BREAKING CHANGES
+
+* what so ever
+
+
+
 # [1.0.0](https://github.com/baumrock/conventionalcommits/compare/v0.1.0...v1.0.0) (2023-06-01)
 
 
